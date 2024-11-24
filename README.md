@@ -30,7 +30,7 @@ TripTreasure is a travel management system designed to make travel planning seam
 - **Database**: MySQL (`tourism_db`)
 - **Database Management**: phpMyAdmin ([http://localhost/phpmyadmin](http://localhost/phpmyadmin))
 - **Backend**: PHP
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
 
 ---
 
